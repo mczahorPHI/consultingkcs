@@ -1,110 +1,13 @@
 date,play,units,line,win,loss,push,league,netunits
-1/17/21,7 Pt Teaser: TB +10 w/ KC -1.5 (3u),3,-140,1,0,0,NFL,3
-1/17/21,7 Pt Teaser: GB pk w/ KC -2.5 (2u),2,-140,1,0,0,NFL,2
-1/17/21,Panthers Moneyline,1,-145,1,0,0,NHL,1
-1/17/21,Nuggets +1,1,-110,0,1,0,NBA,-1.1
-1/17/21,Memphis Moneyline,1,-120,0,1,0,CBB,-1.2
-1/18/21,Blues Moneyline,2,-180,1,0,0,NHL,2
-1/18/21,Blue Jackets Moneyline,1,-160,1,0,0,NHL,1
-1/18/21,Oilers Moneyline,1,-110,0,1,0,NHL,-1.1
-1/18/21,St Johns +8,1,-110,1,0,0,CBB,1
-1/18/21,Heat -5.5,1,-110,1,0,0,NBA,1
-1/18/21,Raptors -4.5,1,-110,1,0,0,NBA,1
-1/18/21,Rockets Moneyline,1,-120,0,1,0,NBA,-1.2
-1/19/21,Avalanche 3-Way Moneyline (2u),2,-160,1,0,0,NHL,2
-1/19/21,Rangers Moneyline,1,-150,0,1,0,NHL,-1.5
-1/19/21,Capitals TT Over 2.5,1,-140,1,0,0,NHL,1
-1/19/21,Tennessee St Moneyline,1,-110,0,1,0,CBB,-1.1
-1/19/21,Thunder 1st Q Under 56.5,1,-110,0,1,0,NBA,-1.1
-1/20/21,Leafs Over 6.5,1,-120,0,1,0,NHL,-1.2
-1/20/21,Canucks +1,1,-145,1,0,0,NHL,1
-1/20/21,Houston 1st Half -6,1,-115,1,0,0,CBB,1
-1/20/21,76ers -5,1,-110,1,0,0,NBA,1
-1/20/21,Kings +10,1,-110,0,1,0,NBA,-1.1
-1/21/21,Islanders Moneyline (2u),2,-150,1,0,0,NHL,2
-1/21/21,Memphis -2.5,1,-110,1,0,0,CBB,1
-1/21/21,Eastern Illinois +13,1,-110,0,0,1,CBB,1
-1/21/21,Montana Moneyline,1,-160,1,0,0,CBB,-1.1
-1/21/21,UCLA 1st Half -5,1,-110,0,1,0,CBB,-1.1
-1/21/21,Pelicans +7,1,-110,0,1,0,NBA,2
-1/22/21,Avalanche Moneyline (2u),2,-200,1,0,0,NHL,1.2
-1/22/21,Sabres Moneyline ,1,-120,0,1,0,NHL,-1.8
-1/22/21,Sharks +1.5,1,-180,0,1,0,NHL,1
-1/22/21,Wyoming +4,1,-110,1,0,0,CBB,1
-1/22/21,Kings -4,1,-110,1,0,0,NBA,1
-1/22/21,Nuggets +1.5,1,-110,1,0,0,NBA,-1.1
-1/23/21,Flyers Team Total Over 2.5,1,-110,0,1,0,NHL,-1.1
-1/23/21,Lafayette -6,1,-115,0,1,0,CBB,-1.1
-1/23/21,Florida Atlantic Moneyline ,1,-110,0,1,0,CBB,1
-1/23/21,Georgia Tech Over 124,1,-110,1,0,0,CBB,1
-1/23/21,Nets Over 232,1,-110,1,0,0,NBA,1
-1/23/21,Muradov Moneyline,1,-160,1,0,0,UFC,1
-1/24/21,Sabres Moneyline,1,-120,1,0,0,NHL,1
-1/24/21,Knights Moneyline,1,-150,1,0,0,NHL,-1.3
-1/24/21,Flames Team Total Over 2.5 ,1,-130,0,1,0,NHL,-1.5
-1/24/21,Islanders Moneyline,1,-150,0,1,0,NHL,-1.1
-1/24/21,Bradley +7,1,-110,0,1,0,CBB,1
-1/24/21,Bucks -8,1,-110,1,0,0,NBA,1
-1/24/21,Chiefs Moneyline,1,-160,1,0,0,NFL,-1.6
-1/24/21,Packers Moneyline,1,-160,0,1,0,NFL,1
-1/25/21,Canucks Moneyline,1,-150,1,0,0,NHL,-1.1
-1/25/21,Canucks Under 6.5,1,-110,0,1,0,NHL,0
-1/25/21,Bradley +7,1,-110,0,0,1,CBB,1
-1/25/21,Texas Tech +2,1,-110,1,0,0,CBB,1
-1/26/21,Avalanche Moneyline (3u),3,-210,1,0,0,NHL,3
-1/26/21,Islanders Moneyline (2u),2,-130,0,1,0,NHL,-2.6
-1/26/21,Flyers Moneyline,1,-150,1,0,0,NHL,1
-1/26/21,Predators Moneyline,1,-170,1,0,0,NHL,1
-1/26/21,Jazz Under 212,1,-110,1,0,0,NBA,1
-1/26/21,Rockets Moneyline,1,-160,1,0,0,NBA,1
-1/26/21,Eastern Illinois -6,1,-110,0,1,0,CBB,-1.1
-1/26/21,Texas -4.5,1,-110,0,1,0,CBB,-1.1
-1/27/21,Canucks Under 6.5,1,-110,1,0,0,NHL,1
-1/27/21,Kansas State +24,1,-110,0,1,0,CBB,-1.1
-1/27/21,Nets -6,1,-110,0,1,0,NBA,-1.1
-1/28/21,Lightning Moneyline,1,-140,0,1,0,NHL,-1.4
-1/28/21,Flames Over 6,1,-110,0,0,1,NHL,0
-1/28/21,Avalanche 3-way Moneyline,1,-140,1,0,0,NHL,1
-1/28/21,Heat -3,1,-110,0,1,0,NBA,-1.1
-1/28/21,Arizona State -8,1,-110,0,1,0,CBB,-1.1
-1/29/21,Blue Jackets Moneyline,1,-130,1,0,0,NHL,1
-1/29/21,Nets -8,1,-110,1,0,0,NBA,1
-1/29/21,Cavaliers Under 209,1,-110,1,0,0,NBA,1
-1/29/21,Hawaii +3,1,-110,1,0,0,CBB,1
-1/30/21,Avalanche Moneyline,1,-150,1,0,0,NHL,1
-1/30/21,Flames +1.5,1,-200,1,0,0,NHL,1
-1/30/21,Bucks -8,1,-110,0,1,0,NBA,-1.1
-1/30/21,CS Northridge -3,1,-110,1,0,0,CBB,1
-1/30/21,Arizona State Moneyline,1,-130,1,0,0,CBB,1
-1/30/21,Tennessee State +10,1,-110,0,1,0,CBB,-1.1
-1/31/21,Panthers Moneyline,1,-170,1,0,0,NHL,1
-1/31/21,Ducks +1.5,1,-180,0,1,0,NHL,-1.8
-1/31/21,NC State +5.5,1,-110,1,0,0,CBB,1
-1/31/21,Pacers +2,1,-110,0,1,0,NBA,-1.1
-1/31/21,Cavaliers Moneyline,1,-150,0,1,0,NBA,-1.5
-2/1/21,Lightning Moneyline (2u),2,-175,1,0,0,NHL,2
-2/1/21,Bruins Moneyline,1,-110,1,0,0,NHL,1
-2/1/21,Canucks Over 6,1,-110,1,0,0,NHL,1
-2/1/21,Bradley Moneyline,1,-120,0,1,0,CBB,-1.2
-2/2/21,Hurricanes Moneyline (2u),2,-160,1,0,0,NHL,2
-2/2/21,Blues Moneyline,1,-160,1,0,0,NHL,1
-2/2/21,Oilers Regulation Moneyline,1,-140,1,0,0,NHL,1
-2/2/21,Jets Over 6,1,-110,0,1,0,NHL,-1.1
-2/2/21,Morgan State Moneyline,1,-120,1,0,0,CBB,1
-2/2/21,Parlay: Iowa 1stH ML + Wisconsin ML,1,-150,1,0,0,CBB,1
-2/2/21,Nets Team Total Over 120.5,1,-115,1,0,0,NBA,1
-2/3/21,Lightning -1.5 (2u),2,-140,1,0,0,NHL,2
-2/3/21,Mavericks Moneyline,1,-120,1,0,0,NBA,1
-2/3/21,Knicks +2,1,-110,1,0,0,NBA,1
-2/3/21,Creighton -14,1,-110,0,1,0,CBB,-1.1
-2/3/21,LSU +8.5,1,-110,0,1,0,CBB,-1.1
-2/4/21,Canadiens 3-Way Moneyline(2u),2,-180,0,1,0,NHL,-3.6
-2/4/21,Canadiens Team Total Over 3.5,1,-160,0,1,0,NHL,-1.6
-2/4/21,Blues Moneyline,1,-160,0,1,0,NHL,-1.6
-2/4/21,Rockets +4,1,-115,1,0,0,NBA,1
-2/4/21,Mavericks -3.5,1,-110,0,1,0,NBA,-1.1
-2/4/21,Murray State Over 131,1,-110,0,1,0,CBB,-1.1
-2/5/21,Lightning -1.5,1,-140,1,0,0,NHL,1
-2/5/21,Panthers Moneyline,1,-140,1,0,0,NHL,1
-2/5/21,Old Dominion +6,1,-110,1,0,0,CBB,1
-2/5/21,Nets +Heat MLP,1,-105,0,1,0,NBA,-1.05
+2/17/21,Leafs Regulation Moneyline ,2,-200,1,0,0,NHL,1
+2/17/21,Panthers Team Total Over 2.5,1,-130,1,0,0,NHL,1
+2/17/21,Oilers Moneyline,1,-140,1,0,0,NHL,1
+2/17/21,Bulls Moneyline,1,-150,1,0,0,NBA,1
+2/17/21,Tennessee 1st Half -6,1,-110,1,0,0,CBB,1
+2/18/21,Blue Jackets Moneyline,1,-125,1,0,0,CBB,1
+2/18/21,Capitals Moneyline,1,-160,1,0,0,CBB,1
+2/18/21,Tennessee State Moneyline,1,-130,1,0,0,CBB,1
+2/18/21,Coyotes Moneyline,1,-160,0,1,0,CBB,-1.6
+2/18/21,Blues Regulation Moneyline,1,-120,0,1,0,CBB,-1.2
+2/18/21,Bruins Regulation Moneyline,1,-140,0,1,0,CBB,-1.4
+2/18/21,Nets Lakers Over 230,1,-110,0,1,0,CBB,-1.1
